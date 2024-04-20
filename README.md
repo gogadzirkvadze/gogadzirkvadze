@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gogadzirkvadze
 - 👀 I’m interested in building websites
-- 🌱 I’m currently learning css 
+- 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail:gogadzirkvadze@gmail.com
 - 😄 Pronouns: ...
